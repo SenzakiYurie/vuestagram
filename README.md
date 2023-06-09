@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+npm install kim
+
 ```
 
 ### Compiles and hot-reloads for development
